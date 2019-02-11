@@ -1,0 +1,2 @@
+beginner_tutorials:transform
+-DCATKIN_DEVEL_PREFIX=/home/dsobek/Projects/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/dsobek/Projects/catkin_ws/install -G Unix Makefiles
